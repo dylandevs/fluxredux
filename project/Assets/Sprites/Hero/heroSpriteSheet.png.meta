@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 2d2adc73d2b6aec43a283655820d48fc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: heroSpriteSheet_0
+    21300002: heroSpriteSheet_1
+    21300004: heroSpriteSheet_2
+    21300006: heroSpriteSheet_3
+    21300008: heroSpriteSheet_4
+    21300010: heroSpriteSheet_5
+    21300012: heroSpriteSheet_6
+    21300014: heroSpriteSheet_7
+    21300016: heroSpriteSheet_8
+    21300018: heroSpriteSheet_9
+    21300020: heroSpriteSheet_10
+    21300022: heroSpriteSheet_11
+    21300024: heroSpriteSheet_12
+    21300026: heroSpriteSheet_13
+    21300028: heroSpriteSheet_14
+    21300030: heroSpriteSheet_15
+    21300032: heroSpriteSheet_16
+    21300034: heroSpriteSheet_17
+    21300036: heroSpriteSheet_18
+    21300038: heroSpriteSheet_19
+    21300040: heroSpriteSheet_20
+    21300042: heroSpriteSheet_21
+    21300044: heroSpriteSheet_22
+    21300046: heroSpriteSheet_23
+    21300048: heroSpriteSheet_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: heroSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1224
+        width: 90
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 917
+        width: 140
+        height: 185
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 917
+        width: 111
+        height: 189
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 917
+        width: 86
+        height: 189
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 917
+        width: 81
+        height: 196
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 917
+        width: 108
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 916
+        width: 153
+        height: 192
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 611
+        width: 138
+        height: 183
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 611
+        width: 113
+        height: 188
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 611
+        width: 85
+        height: 188
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 611
+        width: 81
+        height: 195
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 611
+        width: 128
+        height: 195
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 611
+        width: 160
+        height: 181
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 304
+        width: 113
+        height: 170
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 304
+        width: 104
+        height: 115
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 304
+        width: 104
+        height: 115
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 304
+        width: 102
+        height: 115
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 280
+        width: 206
+        height: 67
+      alignment: 9
+      pivot: {x: .525795937, y: .384362519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 97
+        height: 202
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 99
+        height: 200
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1297
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1291
+        width: 138
+        height: 70
+      alignment: 9
+      pivot: {x: .306260258, y: .514951885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1295
+        width: 88
+        height: 65
+      alignment: 9
+      pivot: {x: .655806124, y: .447267503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1295
+        width: 110
+        height: 51
+      alignment: 9
+      pivot: {x: .742823362, y: .500009596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: heroSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1304
+        width: 154
+        height: 29
+      alignment: 9
+      pivot: {x: .740385771, y: .500004232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
